@@ -5,7 +5,7 @@ Esta pasta reúne as evidências da execução do pipeline de dados no Databrick
 
 ---
 
-### Evidências Fotográficas
+### Evidências
 
 - **`01_validacao_tabelas.png`**: Comprovação da validação estrutural do pipeline no catálogo `workspace.default`, confirmando a existência, acessibilidade e contagem de registros das tabelas processadas na esteira analítica.
 - **`02_indicadores_gerais.png`**: Resumo da execução do pipeline demonstrando a consolidação das cargas de dados: atletas cadastrados, sessões de treino ingeridas, sessões mapeadas por faixas cardíacas, alertas clínicos disparados e prescrições diárias compiladas na camada Gold.
