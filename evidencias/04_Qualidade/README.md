@@ -5,7 +5,7 @@ Esta pasta documenta os testes automatizados de qualidade, consistência referen
 
 ---
 
-### Evidências Fotográficas
+### Evidências
 
 - **`01_sessoes_sem_atleta.png`**: Teste de integridade referencial validando que não existem sessões de treino órfãs (`fato_sessao_treino` sem correspondente na `dim_atleta`). Resultado: 0 registros órfãos encontrados.
 - **`02_duplicidade_treinos.png`**: Teste de unicidade de chave primária (`id_treino`) na tabela `fato_sessao_treino`, atestando a ausência de duplicidade nas cargas de ingestão. Resultado: 0 registros duplicados.
