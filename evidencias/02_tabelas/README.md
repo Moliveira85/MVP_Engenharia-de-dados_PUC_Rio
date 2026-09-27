@@ -6,7 +6,7 @@ Esta pasta documenta a estrutura do catálogo de dados gerenciado via Databricks
 
 ---
 
-### Evidências Fotográficas
+### Evidências 
 
 - **`01_tabelas_dimensoes_unity_catalog.png`**: Visualização do esquema no Unity Catalog apresentando a camada de entrada bruta (`bronze_anamnese_raw`) e as tabelas de dimensões cadastrais, clínicas e de hábitos esportivos.
 - **`02_tabelas_fatos_gold_volumes.png`**: Visualização das tabelas de regras de negócio, tabelas de fatos transacionais de treinos e alertas, a tabela analítica consolidada (`gold_prescricao_diaria`) e os Databricks Volumes configurados.
